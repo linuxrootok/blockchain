@@ -9,7 +9,7 @@
 
 ## If you google the keywords "tipcoin", it will show you easily at CoinMarketCap site
 
-![google it](.google.png)
+![google it](./google.png)
 
 ## It's a same icon like thetipcoin.io(This is the official website)
 
@@ -23,9 +23,9 @@
 
 ![This contract has a pause function](./replace.png)
 
-# Last point(It's important), it has one link (tipcoin.io) that looks like the same official website link(https://thetipcoin.io/)
+# Last point(It's important), it has one link (`https://tipcoineth.io`) that looks like the same official website link(`https://thetipcoin.io`)
 
 ![Look for official website links that appear extremely similar](./fakeUrl.png) 
 
-LOL... Be mindful of security,guys!
+`LOL... Be mindful of security,guys!`
 
